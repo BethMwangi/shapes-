@@ -1,6 +1,24 @@
-#container {
+.container {
     width: 500px;
     height: auto;
     margin: 0 auto;
     background-color: yellow;
+}
+.contain-triangle {
+    background: blue;
+}
+.contain-square {
+    background: red;
+}
+.contain-rectangle {
+    background: purple;
+}
+.contain-parallelogram {
+    background: green;
+}
+.contain-trapezium {
+    background: white;
+}
+contain-star {
+    background: black;
 }
